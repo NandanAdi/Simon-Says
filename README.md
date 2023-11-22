@@ -1,5 +1,5 @@
 # Simon-Says
-It is a simple game that you could play in your free time.
+It is a simple game that you can play in your free time.
 
 
 *Rules:
